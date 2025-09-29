@@ -1,7 +1,6 @@
 # Weather Web Application
 ## Overview
 The Weather Web Application is a sleek, modern tool designed to deliver real-time weather insights and a 5-day forecast for any location worldwide. With a focus on user experience, the app provides key weather metrics such as temperature, humidity, sunrise, sunset, pressure, and wind speed in an intuitive and visually appealing interface. Deployed on Render and GitHub Pages, this app is accessible to users globally with no setup required.
-Features
 
 ## Real-Time Weather Data
 * View current temperature, humidity, sunrise, sunset, pressure, and wind speed for any city or region.
